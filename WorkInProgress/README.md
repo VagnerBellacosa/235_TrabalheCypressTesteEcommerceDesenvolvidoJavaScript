@@ -34,7 +34,13 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Parte 1](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/0e645409-ba0e-4c2d-835a-48c6a6415a6f)[Parte 2](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/6eed594b-73dc-4813-83aa-aec65bf2c3c0)[Parte 3](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/cc3921ab-1737-4384-b210-805b58436200)[Parte 4](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/db68c618-4992-4b1f-817c-5bc0af37dfd3)[Parte 5](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/6b012a57-4560-4de1-836c-364810ebb645)[Parte 6](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/eae2a845-1f35-440b-a8cf-894da57d2b9a)
+- [Parte 1](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/0e645409-ba0e-4c2d-835a-48c6a6415a6f)
+- [Parte 2](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/6eed594b-73dc-4813-83aa-aec65bf2c3c0)
+- [Parte 3](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/cc3921ab-1737-4384-b210-805b58436200)
+- [Parte 4](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/db68c618-4992-4b1f-817c-5bc0af37dfd3)
+- [Parte 5](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/6b012a57-4560-4de1-836c-364810ebb645)
+- [Parte 6](https://web.dio.me/lab/trabalhe-com-cypress-e-teste-um-e-commerce-desenvolvido-em-javascript/learning/eae2a845-1f35-440b-a8cf-894da57d2b9a)
+- 
 
 
 
